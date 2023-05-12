@@ -171,7 +171,7 @@ torch
 torchdiffeq==0.2.3
 torchmetrics==0.11.0
 torchsde==0.2.5
-torchvision==0.14.0
+torchvision
 tornado==6.2
 tqdm==4.64.1
 trampoline==0.1.2
@@ -188,7 +188,7 @@ watchdog==2.2.0
 wcwidth==0.2.5
 websockets==10.4
 Werkzeug==2.2.2
-xformers==0.0.16
+xformers
 yapf==0.32.0
 yarl==1.8.2
 zipp==3.11.0
